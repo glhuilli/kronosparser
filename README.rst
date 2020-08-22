@@ -85,7 +85,7 @@ Other examples:
 
 
 
-Note that if you don't define the ``timezone``, it will use ``US/Pacific`` by default. Also, is no parameters are specified, it will use ``future`` as ``False`` and ``interval_to_date`` as ``True``.
+Note that if you don't define the ``timezone``, it will use ``US/Pacific`` by default. Also, if no parameters are specified, it will use ``future`` as ``False`` and ``interval_to_date`` as ``True``.
 
 
 Development 
